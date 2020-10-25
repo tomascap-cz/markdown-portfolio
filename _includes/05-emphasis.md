@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Character and **courage**
+Focus on _detail_
+Did I mention I am a **pilot**?
+*I also code in JavaScript and fight an occasional fire.*
